@@ -1,4 +1,3 @@
 # Rekomendasi-Gaji
 - Chapter 3 
-	> Machine Learnig & Dataset
-	> Web Aplikasi dengan Framework Django
+	> Machine Learnig & Web Aplikasi dengan Framework Django
